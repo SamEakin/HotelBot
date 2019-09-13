@@ -1,0 +1,18 @@
+{
+    "name": "HotelBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "4c64fa10-e7c3-438d-837a-5e2644875486",
+            "appPassword": "w#TiyIatNthl4=02OY-}813(bz]Dc",
+            "endpoint": "http://http://localhost:3978/api/messages",
+            "id": "194f83c0-d650-11e9-9ce2-d3d3e1d7ec7b",
+            "name": "http://http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\sam-e\\Desktop\\hotelbot\\HotelBot.bot"
+}
